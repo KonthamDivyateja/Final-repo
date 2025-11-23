@@ -1,0 +1,1 @@
+//The arrow function test: () => console.log(this.value) does not bind its own this context but inherits the this from its surrounding scope (lexical scope).
