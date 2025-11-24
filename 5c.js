@@ -1,0 +1,1 @@
+//const is used for values that should not be reassigned after their initial declaration. It enforces that the variable identifier always points to the same object or primitive value.
